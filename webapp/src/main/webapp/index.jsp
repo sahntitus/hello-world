@@ -1,3 +1,4 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h2> This is an office DevOps  learning course </h2>
+<h2> SIX FIGURES IS IN THE MAKING </h2>
